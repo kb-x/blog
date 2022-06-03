@@ -12,5 +12,5 @@ cover:
 
 here you will find some write ups, projects and more.
 
-[Back to kbx.codes](https://kbx.codes, "Back to kbx.codes")
+[Back to kbx.codes](https://kbx.codes)
 
